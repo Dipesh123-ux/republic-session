@@ -1,0 +1,22 @@
+/* .container{
+  height:200px;
+  width: 200px;
+  background-color:yellow;
+  margin: 10px;
+} */
+
+
+body{
+    height:100vh;
+    background-color:royalblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+#btn{
+   padding: 10px;
+   border-radius: 10px;
+   cursor: pointer;
+}

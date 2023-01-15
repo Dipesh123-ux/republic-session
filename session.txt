@@ -1,0 +1,6 @@
+Frontend Development --> what user see and what
+how user interact 
+html --> css --> javascript --> React angular --> bootstrap
+
+Backend --> Node js + express 
+python java
